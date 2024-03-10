@@ -5,6 +5,7 @@ Tech Stacks used in this project are :HTML CSS Java Script.
 
 
  Screenshot 
+ 
  ![Screenshot 2024-03-10 231728](https://github.com/shrey-111/Spotify-Clone-Website/assets/123317004/a0d65715-89fd-406d-b3d4-620c0f8333f1)
 
 
