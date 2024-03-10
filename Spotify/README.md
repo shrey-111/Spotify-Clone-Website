@@ -21,8 +21,5 @@ HTML,CSS,Java Script
 ## Screenshots
 
 ![Screenshot 2024-03-10 231728](https://github.com/shrey-111/Spotify-Clone-Website/assets/123317004/143936bd-a165-4586-84f6-5ec14ea890f6)
-## Video
-
-"C:\Users\21cse\Videos\Captures\Spotify - Your favourite music is here - Google Chrome 2024-03-10 23-29-56.mp4"
 
 
